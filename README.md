@@ -2,6 +2,6 @@
 ## Usage
 ```json
 {
-  "extends": ["github>sxzz/renovate-config"]
+  "extends": ["github>daflyinbed/renovate-config"]
 }
 ```
