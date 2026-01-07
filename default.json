@@ -17,7 +17,7 @@
       "packageNameTemplate": "rust-lang/rust",
       "datasourceTemplate": "github-releases"
     }
-  ]
+  ],
   "labels": [
     "dependencies"
   ],
